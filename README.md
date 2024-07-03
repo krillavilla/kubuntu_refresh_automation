@@ -13,9 +13,21 @@ This repository contains a Bash script designed to automate the setup of a Kubun
 - **Enable Password Feedback**: Shows password feedback in the command line interface.
 - **Docker Setup**: Configures Docker and adds the user to the Docker group.
 
+## Contributing
+Feel free to open issues or submit pull requests with improvements and new features.
+
 ## Usage
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
+
+2. **Run the script**:
+   chmod +x kubuntu-setup.sh
+   ./kubuntu-setup.sh
+
+3.**Reboot The System**:
+   sudo reboot
+
+4.  
