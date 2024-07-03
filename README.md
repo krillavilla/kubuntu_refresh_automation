@@ -24,10 +24,11 @@ Feel free to open issues or submit pull requests with improvements and new featu
    cd your-repository
 
 2. **Run the script**:
+   ```bash
    chmod +x kubuntu-setup.sh
    ./kubuntu-setup.sh
 
-3.**Reboot The System**:
-   sudo reboot
-
-4.  
+3. **Reboot The System**:
+   ```bash
+      sudo reboot
+ 
